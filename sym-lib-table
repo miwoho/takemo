@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "takemo")(type "KiCad")(uri "${KIPRJMOD}/lib/takemo.kicad_sym")(options "")(descr ""))
-)
