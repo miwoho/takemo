@@ -1,0 +1,50 @@
+12343222826096
+takemo
+BAT-SMD_MY-1632-03
+
+
+0
+3
+2
+takemo
+CPG1316S01D02
+
+
+0
+6
+3
+takemo
+Holyiot-18010-nRF52840
+
+
+0
+37
+37
+takemo
+LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+takemo
+PinHeader_1x04_P1.00mm_Vertical
+Through hole straight pin header, 1x04, 1.00mm pitch, single row
+Through hole pin header THT 1x04 1.00mm single row
+0
+4
+4
+takemo
+R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+takemo
+SW_SPST_B3U-3000P-B
+Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, with Boss
+Tactile Switch
+0
+2
+2
