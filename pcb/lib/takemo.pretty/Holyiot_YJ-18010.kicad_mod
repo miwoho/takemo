@@ -1,4 +1,4 @@
-(footprint "Holyiot-18010-nRF52840"
+(footprint "Holyiot_YJ-18010"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "Holyiot-18010"
+	(property "Value" "Holyiot_YJ-18010"
 		(at 0 10.795 180)
 		(layer "F.Fab")
 		(uuid "07090177-e2e3-4aa7-bb62-2dd433e74cc9")
@@ -390,7 +390,7 @@
 		(uuid "a8110b79-4e8d-4ac4-af94-c0ee14c9fd24")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/jiran-ble-lite.3dshapes/HolyIot_18010_nRF52840.step"
+	(model "${KIPRJMOD}/lib/step/Holyiot18010.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -398,7 +398,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )

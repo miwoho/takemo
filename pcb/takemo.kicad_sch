@@ -47,6 +47,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 140.97 69.85)
+		(size 90.17 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "61310212-6eaf-4598-a924-826f84002d21")
+		(property "Sheetname" "right"
+			(at 140.97 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "right.kicad_sch"
+			(at 140.97 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "takemo"
+				(path "/a9853157-d0b6-4bec-b0cb-02a0a3048080"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

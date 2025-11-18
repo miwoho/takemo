@@ -1,4 +1,4 @@
-(footprint "BAT-SMD_MY-1632-03"
+(footprint "MY-1632-03"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "BAT-SMD_MY-1632-03"
+	(property "Value" "MY-1632-03"
 		(at 0 7.415433 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -584,4 +584,15 @@
 		(uuid "1063d815-e83b-4b00-be10-3693c093c79a")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/step/MY-1632-03step.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
